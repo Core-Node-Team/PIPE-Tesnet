@@ -6,6 +6,9 @@
  * [Topluluk Twitter](https://twitter.com/corenodeHQ)<br>
  * [Discord](https://discord.com/invite/0glabs)<br>
 
+
+### UBUNTU 24 İSTİYOR. 22 OLANLAR DOCKERLI KURULUMU 22 DE YAPABİLİR.
+
 ### Gereklilikler ve ayarlar
 ```
 sudo apt update && sudo apt upgrade && sudo apt install wget rar zip libssl-dev ca-certificates -y
