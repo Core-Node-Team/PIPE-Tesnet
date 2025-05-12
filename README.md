@@ -7,7 +7,7 @@
  * [Discord](https://discord.com/invite/0glabs)<br>
 
 
-### UBUNTU 24 İSTİYOR. 22 OLANLAR DOCKERLI KURULUMU 22 DE YAPABİLİR.
+### UBUNTU 24 İSTİYOR. 22 OLANLAR DOCKERLI KURULUMU 22 DE YAPABİLİR. 22 DE DOCKERLI KURULUM YAMAK İÇİN [TIKLA](https://github.com/Core-Node-Team/PIPE-Tesnet/blob/main/Docker-Kurulum.md)
 
 ### Gereklilikler ve ayarlar
 ```
